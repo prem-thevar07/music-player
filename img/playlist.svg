@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none">
+  <!-- Pause bars -->
+  <rect x="4" y="5" width="2" height="14" rx="1" fill="rgb(139, 140, 141)"/>
+  <rect x="8" y="5" width="2" height="14" rx="1" fill="rgb(139, 140, 141)"/>
+
+  <!-- Right tilted rectangle -->
+  <path d="M12 5 L18 7 V19 H12 Z" fill="rgb(139, 140, 141)"/>
+</svg>
